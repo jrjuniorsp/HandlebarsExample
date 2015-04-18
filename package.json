@@ -1,0 +1,9 @@
+{
+  "name": "Handlebars-Example",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "^4.12.3",
+    "express-handlebars": "^2.0.0"
+  }
+}
